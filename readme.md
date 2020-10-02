@@ -59,12 +59,24 @@ Here's a list of details that I'll check, for grading your project. Use it to gu
 
 ### Student report
 
--   Can you explain the structure of your files?
--   Any project improvements possible?
--   What was your experience?
--   What have you learned/improved?
--   Any wisdom to share? :)
+1 -  Can you explain the structure of your files?  
+   - Firstly, I fetch all the data which contain the list
+  - Then, I created a form so the users can add into the list.
+  - Create a function that will handle the submit button in the add button. Inside of this function, I created a variable which show the input. Also, the form will not be submitted if the users do not add anything. 
+  - After that, I push the items to the state. 
+  - I created a new function that will show the output.
+  - I added local storage to save the items.
+  - There are eventListeners that handle the submit button and list.  
+2 -   Any project improvements possible?
+  - Now, I understand how to use form and submitting it.
+  - Also, I understand little bit how localStorage works.
+3 -   What was your experience?  
+4 -   What have you learned/improved?  
+5 -   Any wisdom to share? :)
 
 Fork this repo and clone your fork. You have until 16h30 to complete the project. Stop coding a bit earlier to take some time documenting your project in the readme.
 
 Good luck team 🔥💪 and happy coding 👍
+
+
+
