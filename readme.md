@@ -69,7 +69,7 @@ Here's a list of details that I'll check, for grading your project. Use it to gu
   - There are eventListeners that handle the submit button and list.  
 2 -   Any project improvements possible?
   - Now, I understand how to use form and submitting it.
-  - Also, I understand little bit how localStorage works.
+  - Also, I understand little bit how localStorage works.  
 3 -   What was your experience?  
 4 -   What have you learned/improved?  
 5 -   Any wisdom to share? :)
